@@ -1,0 +1,18 @@
+- Have a basic understanding of how computer systems work. The hardware, the software (including OS/Kernel), the network, the Internet
+- Try and pick up at least 2 or 3 programming languages
+- Learn about various programming paradigms like imperative, object-oriented, functional etc.
+- Embrace each programing language's idiosyncrasies rather that fight them.
+- Have a good understanding of the standard library of a programming language. It will prevent you from inefficiently duplicating functionality that was at your disposal from the get go.
+- Research a bit on some leading 3rd party libraries/APIs available. Someone always has the problem solved before you. Your skill lies in finding it rather than duplicating it.
+- Start picking up on how to distinguish efficient vs inefficient code. Efficiency can defined in terms of performance, conciseness, resource consumption etc.
+- Teach yourself the principles of application security and secure coding. Not being a full time software developer doesn't alleviate you from writing secure code.
+- Think beyond your immediate use case. Think of use cases in future or use cases by users other than yourself. "It suffices my needs" is a narrow mindset.
+- Write less code and more comments. Think of that someone who has to read your code six months or an year from now. Even if that someone is you, I can tell you from experience that reading properly commented code can do wonders to lower your stress levels.
+- Be critical of your coding abilities rather than being confident about them. Let that imposter syndrome be your motivation to improve.
+- Automate your testing. Be it unit tests or integration tests, take out the human as much as possible from the equation.
+- Learn about software delivery pipelines. Continuous integration (CI), automated deployments, devops are not just buzzwords. They play a critical part in your overall product development.
+- Familiarize yourself with distributed computing, cloud environments, virtualization and container technologies.
+- NEVER CODE WITHOUT A VERSION CONTROL SYSTEM, PREFERABLY GIT
+- DON'T HARD CODE STRINGS, NUMBERS, FILE/DIRECTORY NAMES EVER!
+- ALWAYS METICULOUSLY DOCUMENT YOUR "CLEVER" HACKS. ALWAYS!
+- DON'T BLINDLY COPY CODE FROM STACK OVERFLOW.
